@@ -1,0 +1,7 @@
+{
+	"ServerId": "Proj1",
+	"Protocol": "tcp",
+	"IpAddress": "127.0.0.1",
+	"Port": "5432",
+	"StorageContainer": "data.dat"
+}
